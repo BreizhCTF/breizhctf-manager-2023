@@ -1,0 +1,4 @@
+Trigger build:
+  trigger:
+    project: breizh-ctf-2023/CTFd
+    strategy: depend
